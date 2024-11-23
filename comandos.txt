@@ -1,0 +1,50 @@
+    1  pwd
+    2  cd Desktop
+    3  cd Escritorio 
+    4  cd Desktop
+    5  cd Escritorio
+    6  cd Escritorio 
+    7  cd OneDrive
+    8  cd Escritorio 
+    9  ls
+   10  mkdir repositorio
+   11  cd repositorio
+   12  code . 
+   13  ls
+   14  touch A.txt
+   15  ls
+   16  make examen 
+   17  git status
+   18  git add examen.c
+   19  git status 
+   20  git commit -m "Primer cambio" 
+   21  rm examenn
+   22  rm examencito
+   23  rm examencito.c
+   24  rm ls
+   25  ls
+   26  git status
+   27  ls
+   28  git status
+   29  git commit -m "Tercer cambio"
+   30  git status 
+   31  touch notas.txt
+   32  git status
+   33  git commit -m "Tercer cambio"
+   34  git add notas.txt
+   35  git status
+   36  git commit -m "Cuarto cambio" 
+   37  git status
+   38  git add examen.c
+   39  git status
+   40  ls
+   41  git log 
+   42  git checkout 096efb4
+   43  git checkout 
+   44  git status
+   45  git log --oneline
+   46  git branch -M main
+   47  git remote add origin https://github.com/htmlore/repositorio
+   48  git push -u origin main
+   49  history
+   50  history > comandos.txt
